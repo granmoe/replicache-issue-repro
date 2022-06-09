@@ -1,0 +1,35 @@
+{
+  "notes": [
+    {
+      "id": "asdf",
+      "text": "yo",
+      "version": 0
+    },
+    {
+      "id": "mysP4NmMzRY-6KhWBc5IZ",
+      "text": "placeholder",
+      "version": 7
+    },
+    {
+      "id": "yawrOac1UUO8vL-zYeUSn",
+      "text": "placeholder",
+      "version": 9
+    },
+    {
+      "id": "lVXBYGfamNuS4n7dgqAXg",
+      "text": "placeholder",
+      "version": 10
+    },
+    {
+      "id": "wcnQ13yyGBQhFhzxJyl5g",
+      "text": "placeholder",
+      "version": 11
+    }
+  ],
+  "lastMutationId": {
+    "value": 4
+  },
+  "version": {
+    "value": 11
+  }
+}
